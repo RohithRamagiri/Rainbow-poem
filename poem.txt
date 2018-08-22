@@ -5,4 +5,6 @@ orange
 blur
 red
 green
+yellow
+black
 colors in rainbow
