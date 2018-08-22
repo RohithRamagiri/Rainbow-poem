@@ -4,3 +4,5 @@ pink
 orange
 blur
 red
+green
+colors in rainbow
